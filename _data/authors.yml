@@ -1,9 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Siddhesh Dash"
   uri         : "https://name.com"
-  email       : "name@name.com"
+  email       : "siddheshd@vt.edu"
+  affiliation: "Virginia Tech / Bradley Department of Electrical and Computer Engineering"
+  github: "SiddheshDash"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
